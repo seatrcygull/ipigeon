@@ -1,7 +1,10 @@
 #summary One-sentence summary of this page.
- * [
- * [ipMsg_Data_Structure 讨论ipMsg的核心数据结构]
- * [ipMsg_Message 本文讨论ipMsg中的消息机制]
- * [ipMsg_Main_Transfer_Routing 本文分析ipMsg传输一个文件时的基本流程]
- * [ipMsg_Single_File_Transfer 	本文分析了ipMsg是如何传输单个文件的]
- * [ipMsg_Directory_Transfer 	本文分析了ipMsg是如何传输文件夹的]
+ * [http://code.google.com/p/ipigeon/ 首页]
+ * [ipMsg_Articles 资料文章]
+  * [ipMsg_Data_Structure 讨论ipMsg的核心数据结构]
+  * [ipMsg_Message 本文讨论ipMsg中的消息机制]
+  * [ipMsg_Main_Transfer_Routing 本文分析ipMsg传输一个文件时的基本流程]
+  * [ipMsg_Single_File_Transfer 	本文分析了ipMsg是如何传输单个文件的]
+  * [ipMsg_Directory_Transfer 	本文分析了ipMsg是如何传输文件夹的]
+ * [http://code.google.com/p/ipigeon/source/browse/#svn/trunk/SRC 源码]
+ 
