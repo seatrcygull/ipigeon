@@ -1,0 +1,8 @@
+#summary 本文讨论ipMsg的核心数据结构
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
