@@ -1,4 +1,3 @@
-#summary One-sentence summary of this page.
  * [http://code.google.com/p/ipigeon/ 首页]
  * [ipMsg_Articles 资料文章]
   * [ipMsg_Data_Structure 讨论ipMsg的核心数据结构]
