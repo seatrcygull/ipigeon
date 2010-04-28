@@ -1,5 +1,5 @@
 #summary 本文讨论ipMsg的核心数据结构
-
+#sidebar pMsg_TableOfContents
 = Introduction =
 
 Add your content here.
